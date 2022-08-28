@@ -4,4 +4,4 @@ Recursos Nativos | Expo RN <br/>
 Utilizando recursos Nativos com Expo
 
 
-### Prof Douglas Morais
+### Fromação Dev For Tech I Mobile | Prof Douglas Morais | Gama Academy.
